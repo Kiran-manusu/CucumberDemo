@@ -1,0 +1,19 @@
+16:59:13.194 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+16:59:13.258 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 50:3e:aa:ff:fe:63:5f:8f (auto-detected)
+16:59:13.335 [AsyncHttpClient-1-5] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+16:59:13.336 [AsyncHttpClient-1-5] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+16:59:13.336 [AsyncHttpClient-1-5] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6766ded4
+16:59:13.404 [AsyncHttpClient-1-5] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+16:59:13.404 [AsyncHttpClient-1-5] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+16:59:13.404 [AsyncHttpClient-1-5] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+16:59:13.404 [AsyncHttpClient-1-5] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+16:59:13.404 [AsyncHttpClient-1-5] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+16:59:17.257 [AsyncHttpClient-1-5] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+16:59:17.801 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x50cb16be62219b96
+16:59:23.035 [TestNG-tests-4] DEBUG resources.Base - Browser URL loaded from properties file.
+16:59:23.312 [TestNG-tests-4] DEBUG resources.Base - Landingpage class object created.
+16:59:26.746 [TestNG-tests-4] DEBUG resources.Base - Loginpage class object created.
+16:59:27.631 [TestNG-tests-4] DEBUG resources.Base - Accountpage class object created.
+16:59:27.735 [TestNG-tests-4] DEBUG resources.Base - Account page is displayed.
+16:59:27.735 [TestNG-tests-4] INFO  resources.Base - Login Test will be passed. 
+16:59:28.023 [TestNG-tests-4] DEBUG resources.Base - Browser is closed.
